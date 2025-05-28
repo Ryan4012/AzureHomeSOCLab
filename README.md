@@ -16,7 +16,7 @@
 - <b></b>
 - <b></b>
 
-<h2>Program walk-through:</h2>
+<h2>Project walk-through:</h2>
 
 <p align="center">
 ...: <br/>
