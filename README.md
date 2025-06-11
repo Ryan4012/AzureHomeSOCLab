@@ -8,13 +8,14 @@
 
 <h2>Languages and Utilities Used</h2>
 
-- <b></b> 
-- <b></b>
+- <b>Kusto Query Language (KQL)</b> 
+- <b>Log Analytics Workspace</b>
 
 <h2>Environments Used </h2>
 
-- <b></b>
-- <b></b>
+- <b>Azure Cloud Services</b>
+- <b>Azure Virtual Machine</b>
+- <b>Microsoft Sentinel</b>
 
 <h2>Project walk-through:</h2>
 
